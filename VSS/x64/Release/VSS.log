@@ -1,0 +1,17 @@
+﻿  cam_select.c
+  depth.c
+  file.c
+  filter.c
+  fisheye.c
+  hole_filling.c
+  label.c
+  matrix.c
+  merge.c
+  parser.c
+  pinhole.c
+  view.c
+  vss.c
+  正在生成代码
+  All 73 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  VSS.vcxproj -> C:\Users\HP\Downloads\VSS A View Synthesis Reference Software for IEEE 1857.9\VVS\VSS\x64\Release\VSS.exe
